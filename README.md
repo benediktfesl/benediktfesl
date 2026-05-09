@@ -7,8 +7,9 @@ I like interpretable AI/ML methods that connect generative modeling, real-world 
 ## 🧰 Published Software
 
 - [`diffusers-dmse`](https://pypi.org/project/diffusers-dmse/) — MSE-optimal diffusion model scheduler (DMSE) for the HuggingFace diffusers library.
-- [`cplx-gmm`](https://pypi.org/project/cplx-gmm/) — Complex-valued Gaussian mixture models with a scikit-learn-style API.
-- [`cplx-mfa`](https://pypi.org/project/cplx-mfa/) — Complex-valued mixture of factor analyzers with a scikit-learn-style API.
+- [`cplx-gmm`](https://pypi.org/project/cplx-gmm/) — Complex-valued Gaussian mixture models (GMMs) with a scikit-learn-style API.
+- [`cplx-mfa`](https://pypi.org/project/cplx-mfa/) — Complex-valued mixture of factor analyzers (MFAs) with a scikit-learn-style API.
+- [`mfa-estimator`](https://pypi.org/project/mfa-estimator/) — MFA-based estimator for complex-valued linear inverse problems.
 - [`nrCSIIMConfig`](https://de.mathworks.com/matlabcentral/fileexchange/183791-nrcsiimconfig-explicit-csi-im-configuration-for-5g-nr) — Explicit CSI-IM resource configuration for 5G NR in MATLAB.
 
 ## 📚 Selected Publications
