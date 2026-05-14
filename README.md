@@ -4,13 +4,17 @@ AI Research Engineer interested in signal processing, scientific machine learnin
 
 I like interpretable AI/ML methods that connect generative modeling, real-world signals, physical systems, and theory.
 
-## 🧰 Published Software
+## 🧰 Published Open-Source Software
 
+### PyPI Packages
 - [`diffusers-dmse`](https://pypi.org/project/diffusers-dmse/) — MSE-optimal diffusion model scheduler (DMSE) for the HuggingFace diffusers library.
 - [`cplx-gmm`](https://pypi.org/project/cplx-gmm/) — Complex-valued Gaussian mixture models (GMMs) with a scikit-learn-style API.
 - [`gmm-estimator`](https://pypi.org/project/gmm-estimator/) — GMM-based estimator for complex-valued linear inverse problems.
 - [`cplx-mfa`](https://pypi.org/project/cplx-mfa/) — Complex-valued mixture of factor analyzers (MFAs) with a scikit-learn-style API.
 - [`mfa-estimator`](https://pypi.org/project/mfa-estimator/) — MFA-based estimator for complex-valued linear inverse problems.
+- [`qce`](https://pypi.org/project/qce/) — Quantized channel estimation with Bussgang-based estimators and complex-valued generative priors.
+
+### MATLAB File Exchange
 - [`nrCSIIMConfig`](https://de.mathworks.com/matlabcentral/fileexchange/183791-nrcsiimconfig-explicit-csi-im-configuration-for-5g-nr) — Explicit CSI-IM resource configuration for 5G NR in MATLAB.
 
 ## 📚 Selected Publications
