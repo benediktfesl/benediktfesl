@@ -14,6 +14,18 @@ I like interpretable AI/ML methods that connect generative modeling, real-world 
 - [`mfa-estimator`](https://pypi.org/project/mfa-estimator/) — MFA-based estimator for complex-valued linear inverse problems.
 - [`qce`](https://pypi.org/project/qce/) — Quantized channel estimation with Bussgang-based estimators and complex-valued generative priors.
 
+### Software Ecosystem
+
+The PyPI packages form a small research software ecosystem around complex-valued generative priors, inverse-problem estimation, quantized channel estimation, and diffusion-based denoising.
+
+<p align="center">
+  <img
+    src="assets/software_ecosystem.png"
+    alt="Software ecosystem for complex-valued estimation"
+    width="900"
+  />
+</p>
+
 ### MATLAB File Exchange
 - [`nrCSIIMConfig`](https://de.mathworks.com/matlabcentral/fileexchange/183791-nrcsiimconfig-explicit-csi-im-configuration-for-5g-nr) — Explicit CSI-IM resource configuration for 5G NR in MATLAB.
 
